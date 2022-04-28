@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nanimsalimovic
+- 👋 Hi, I’m Salim Boukerma
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python advanced level
 - 💞️ I’m looking to collaborate on Python projects
