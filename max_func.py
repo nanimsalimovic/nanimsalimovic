@@ -1,6 +1,6 @@
 
 
-def max_func(x, y):
+def max_func(x: int, y: int)->int:
     return x if x > y else y
 
 
